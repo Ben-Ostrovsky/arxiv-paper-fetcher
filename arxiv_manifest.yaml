@@ -1,5 +1,54 @@
-papers: []
+papers:
+  - key: jedi_2019
+    arxiv: "1905.13369"
 
-# Add papers like this:
-# - key: my_paper
-#   arxiv: "1234.56789"
+  - key: dynamic_access_cloud_2016
+    arxiv: "1602.09069"
+
+  - key: crypto_info_flow_no_public_info_2014
+    arxiv: "1410.5567"
+
+  - key: access_control_encryption_2016
+    arxiv: "1602.03642"
+
+  - key: dbe_adaptive_cpa_2025
+    arxiv: "2505.17527"
+
+  - key: dbe_adaptive_cca_2025
+    arxiv: "2506.10338"
+
+  - key: lattice_unidirectional_ibpre_2020
+    arxiv: "2005.06741"
+
+  - key: collusion_resistant_lattice_ibpre_2020
+    arxiv: "2011.08456"
+
+  - key: key_aggregate_pre_2024
+    arxiv: "2410.08120"
+
+  - key: blockchain_medical_iot_pre_2025
+    arxiv: "2509.08402"
+
+  - key: faith_healthcare_pre_blockchain_2025
+    arxiv: "2510.13318"
+
+  - key: privacy_enhancing_encryption_survey_2026
+    arxiv: "2603.26224"
+
+  - key: revocation_ready_cpabe_iot_2026
+    arxiv: "2605.04280"
+
+  - key: registered_abe_certified_deletion_2026
+    arxiv: "2603.07646"
+
+  - key: revocable_hibe_multilinear_2016
+    arxiv: "1610.07948"
+
+  - key: data_deletion_right_to_be_forgotten_2020
+    arxiv: "2002.10635"
+
+  - key: fiveg_wave_2024
+    arxiv: "2404.13242"
+
+  - key: abe_for_circuits_multilinear_2012
+    arxiv: "1210.5287"
