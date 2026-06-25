@@ -22,10 +22,4 @@ Run:
 python fetch_arxiv.py
 ```
 
-Upload:
-
-```bash
-papers.zip
-```
-
 PDFs go in `papers/pdf/`, extracted text goes in `papers/text/`. Existing files are reused unless you pass `--force`.
